@@ -188,7 +188,7 @@ const LoginPage = (props) => {
                   />
 
                   <TextField
-                    label="Celular probando"
+                    label="Celular"
                     variant="outlined"
                     id="celular"
                     fullWidth
